@@ -1,2 +1,10 @@
-# Stock-Performance-Dashboard-Tableau
-Built a Tableau dashboard to analyze KOTAKBANK, AXISBANK, HDFCBANK, ICICIBANK, SBIN, PNB, AUBANK, and INDUSINDBK, tracking profit/loss, volatility, top holdings, and portfolio trends for actionable insights and real-time decision support.
+<!-- HERO / BANNER -->
+<p align="center">
+  <img src=""
+       width="100%" />
+</p>
+
+<h1 align="center">
+  <strong>Stock Performance Dashboard</strong>
+</h1>
+<p align="center"><b>By Vishal Wagadre</b></p>
