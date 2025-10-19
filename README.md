@@ -1,6 +1,6 @@
 <!-- HERO / BANNER -->
 <p align="center">
-  <img src=""
+  <img src="https://github.com/wagadrevishal23/Stock-Performance-Dashboard-Tableau/blob/main/Assets/Stock_Performance_Banner.jpg?raw=true"
        width="100%" />
 </p>
 
